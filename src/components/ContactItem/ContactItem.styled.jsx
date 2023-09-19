@@ -16,6 +16,7 @@ export const DelButton = styled.button`
   cursor: pointer;
   transition-property: box-shadow, background, outline, border, color;
   background: #ffffff;
+
   transition-duration: 300ms;
 
   :hover {
